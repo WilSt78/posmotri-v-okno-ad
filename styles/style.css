@@ -77,7 +77,6 @@ html {
 .search-form__checkbox {
   pointer-events: none;
 }
-
 .search-form__checkbox-list {
   display: flex;
   flex-direction: row;
